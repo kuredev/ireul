@@ -1,9 +1,9 @@
                           H """""""""""""""""""""" H
                           HMMMMMMMMMMMMMMMMMMMMMMMMH
                           HMMMMMMMMMMMMMMMMMMMMMMMMH
-                          HMMMMMMMMMMMMMMMMMMMMMMMMH
-                          HMMMMMMMMMMMMMMMMMMMMMMMMH
-                          HMMMMMMMMMMMMMMMMMMMMMMMMH
++-+-+-+-+-+ +-+-+-+       HMMMMMMMMMMMMMMMMMMMMMMMMH
+|C|O|D|E|:| |2|6|3|       HMMMMMMMMMMMMMMMMMMMMMMMMH
++-+-+-+-+-+ +-+-+-+       HMMMMMMMMMMMMMMMMMMMMMMMMH
                           HMMMMMMMMMMMMMMMMMMMMMMMMH
                           HMMMMMMMMMMMMMMMMMMMMMMMMH
                           HMMMMMMMMMMMMMMMMMMMMMMMMH
