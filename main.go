@@ -35,137 +35,137 @@ func showFile(screen tcell.Screen, fileName string) {
 }
 
 func showAnimetion(screen tcell.Screen) {
-	showFile(screen, "ireul/1.txt")
+	showFile(screen, "ireul/attacked/1.txt")
 	time.Sleep(1 * time.Second)
 
-	showFile(screen, "ireul/2.txt")
+	showFile(screen, "ireul/attacked/2.txt")
 	time.Sleep(1 * time.Second)
 
-	showFile(screen, "ireul/3.txt")
+	showFile(screen, "ireul/attacked/3.txt")
 	time.Sleep(1 * time.Second)
 
-	showFile(screen, "ireul/4.txt")
+	showFile(screen, "ireul/attacked/4.txt")
 	time.Sleep(1 * time.Second)
 
-	showFile(screen, "ireul/5.txt")
+	showFile(screen, "ireul/attacked/5.txt")
 	time.Sleep(1 * time.Second)
 
-	showFile(screen, "ireul/6.txt")
+	showFile(screen, "ireul/attacked/6.txt")
 	time.Sleep(1 * time.Second)
 
-	showFile(screen, "ireul/7.txt")
+	showFile(screen, "ireul/attacked/7.txt")
 	time.Sleep(1 * time.Second)
 
-	showFile(screen, "ireul/8.txt")
+	showFile(screen, "ireul/attacked/8.txt")
 	time.Sleep(1 * time.Second)
 
-	showFile(screen, "ireul/9.txt")
+	showFile(screen, "ireul/attacked/9.txt")
 	time.Sleep(1 * time.Second)
 
-	showFile(screen, "ireul/10.txt")
+	showFile(screen, "ireul/attacked/10.txt")
 	time.Sleep(1 * time.Second)
 
-	showFile(screen, "ireul/11.txt")
+	showFile(screen, "ireul/attacked/11.txt")
 	time.Sleep(300 * time.Millisecond)
 
-	showFile(screen, "ireul/12.txt")
+	showFile(screen, "ireul/attacked/12.txt")
 	time.Sleep(300 * time.Millisecond)
 
-	showFile(screen, "ireul/11.txt")
+	showFile(screen, "ireul/attacked/11.txt")
 	time.Sleep(300 * time.Millisecond)
 
-	showFile(screen, "ireul/12.txt")
+	showFile(screen, "ireul/attacked/12.txt")
 	time.Sleep(300 * time.Millisecond)
 
-	showFile(screen, "ireul/11.txt")
+	showFile(screen, "ireul/attacked/11.txt")
 	time.Sleep(300 * time.Millisecond)
 
-	showFile(screen, "ireul/12.txt")
+	showFile(screen, "ireul/attacked/12.txt")
 	time.Sleep(300 * time.Millisecond)
 
-	showFile(screen, "ireul/11.txt")
+	showFile(screen, "ireul/attacked/11.txt")
 	time.Sleep(300 * time.Millisecond)
 
 	/////////////////////////////
-	showFile(screen, "ireul/delete/1.txt")
+	showFile(screen, "ireul/recovery/1.txt")
 	time.Sleep(50 * time.Millisecond)
 
-	showFile(screen, "ireul/delete/2.txt")
+	showFile(screen, "ireul/recovery/2.txt")
 	time.Sleep(50 * time.Millisecond)
 
-	showFile(screen, "ireul/delete/1.txt")
+	showFile(screen, "ireul/recovery/1.txt")
 	time.Sleep(50 * time.Millisecond)
 
-	showFile(screen, "ireul/delete/3.txt")
+	showFile(screen, "ireul/recovery/3.txt")
 	time.Sleep(50 * time.Millisecond)
 
-	showFile(screen, "ireul/delete/4.txt")
+	showFile(screen, "ireul/recovery/4.txt")
 	time.Sleep(50 * time.Millisecond)
 
-	showFile(screen, "ireul/delete/5.txt")
+	showFile(screen, "ireul/recovery/5.txt")
 	time.Sleep(50 * time.Millisecond)
 
-	showFile(screen, "ireul/delete/6.txt")
+	showFile(screen, "ireul/recovery/6.txt")
 	time.Sleep(50 * time.Millisecond)
 
-	showFile(screen, "ireul/delete/7.txt")
+	showFile(screen, "ireul/recovery/7.txt")
 	time.Sleep(50 * time.Millisecond)
 
-	showFile(screen, "ireul/delete/8.txt")
+	showFile(screen, "ireul/recovery/8.txt")
 	time.Sleep(50 * time.Millisecond)
 
-	showFile(screen, "ireul/delete/9.txt")
+	showFile(screen, "ireul/recovery/9.txt")
 	time.Sleep(50 * time.Millisecond)
 
-	showFile(screen, "ireul/delete/10.txt")
+	showFile(screen, "ireul/recovery/10.txt")
 	time.Sleep(50 * time.Millisecond)
 
-	showFile(screen, "ireul/delete/11.txt")
+	showFile(screen, "ireul/recovery/11.txt")
 	time.Sleep(50 * time.Millisecond)
 
-	showFile(screen, "ireul/delete/12.txt")
+	showFile(screen, "ireul/recovery/12.txt")
 	time.Sleep(50 * time.Millisecond)
 
-	showFile(screen, "ireul/delete/13.txt")
+	showFile(screen, "ireul/recovery/13.txt")
 	time.Sleep(50 * time.Millisecond)
 
-	showFile(screen, "ireul/delete/14.txt")
+	showFile(screen, "ireul/recovery/14.txt")
 	time.Sleep(50 * time.Millisecond)
 
-	showFile(screen, "ireul/delete/15.txt")
+	showFile(screen, "ireul/recovery/15.txt")
 	time.Sleep(50 * time.Millisecond)
 
-	showFile(screen, "ireul/delete/16.txt")
+	showFile(screen, "ireul/recovery/16.txt")
 	time.Sleep(50 * time.Millisecond)
 
-	showFile(screen, "ireul/delete/17.txt")
+	showFile(screen, "ireul/recovery/17.txt")
 	time.Sleep(50 * time.Millisecond)
 
-	showFile(screen, "ireul/delete/18.txt")
+	showFile(screen, "ireul/recovery/18.txt")
 	time.Sleep(50 * time.Millisecond)
 
-	showFile(screen, "ireul/delete/19.txt")
+	showFile(screen, "ireul/recovery/19.txt")
 	time.Sleep(50 * time.Millisecond)
 
-	showFile(screen, "ireul/delete/20.txt")
+	showFile(screen, "ireul/recovery/20.txt")
 	time.Sleep(50 * time.Millisecond)
 
-	showFile(screen, "ireul/delete/21.txt")
+	showFile(screen, "ireul/recovery/21.txt")
 	time.Sleep(50 * time.Millisecond)
 
-	showFile(screen, "ireul/delete/22.txt")
+	showFile(screen, "ireul/recovery/22.txt")
 	time.Sleep(50 * time.Millisecond)
 
-	showFile(screen, "ireul/delete/23.txt")
+	showFile(screen, "ireul/recovery/23.txt")
 	time.Sleep(50 * time.Millisecond)
 
-	showFile(screen, "ireul/delete/24.txt")
+	showFile(screen, "ireul/recovery/24.txt")
 	time.Sleep(50 * time.Millisecond)
 
-	showFile(screen, "ireul/delete/25.txt")
+	showFile(screen, "ireul/recovery/25.txt")
 	time.Sleep(50 * time.Millisecond)
 
-	showFile(screen, "ireul/delete/26.txt")
+	showFile(screen, "ireul/recovery/26.txt")
 	time.Sleep(50 * time.Millisecond)
 }
 
