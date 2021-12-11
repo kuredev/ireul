@@ -169,7 +169,7 @@ func showAnimetion(screen tcell.Screen) {
 	time.Sleep(50 * time.Millisecond)
 }
 
-//go:embed ireul/* ireul/delete/*
+//go:embed ireul/attacked/* ireul/recovery/*
 var files embed.FS
 
 func main() {
