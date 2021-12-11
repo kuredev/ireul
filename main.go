@@ -1,18 +1,18 @@
 package main
 
 import (
-	"os"
+	"embed"
 	"time"
 
 	"github.com/gdamore/tcell"
 )
 
 func showFile(screen tcell.Screen, fileName string) {
-	f, _ := os.Open(fileName)
-	defer f.Close()
-	buf := make([]byte, 2048)
-	n, _ := f.Read(buf)
-	s := string(buf[:n])
+	bytes, err := files.ReadFile(fileName)
+	if err != nil {
+		panic(err)
+	}
+	s := string(bytes)
 
 	x := 1
 	y := 1
@@ -169,10 +169,14 @@ func showAnimetion(screen tcell.Screen) {
 	time.Sleep(50 * time.Millisecond)
 }
 
+//go:embed ireul/* ireul/delete/*
+var files embed.FS
+
 func main() {
 	screen, _ := tcell.NewScreen()
 	screen.Init()
 	defer screen.Fini()
+
 	showAnimetion(screen)
 
 	quit := make(chan struct{})
